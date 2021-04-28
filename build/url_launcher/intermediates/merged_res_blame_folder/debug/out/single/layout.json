@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    }
+]

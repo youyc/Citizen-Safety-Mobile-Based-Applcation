@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/laxus/DiskD/sourceCode/flutterCode/project1/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/2244ab78142874e1be39c4215076750e/jetified-media2-session-1.1.0-alpha01/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,161,259,360,487",
+                        "endColumns": "105,97,100,126,134",
+                        "endOffsets": "156,254,355,482,617"
+                    }
+                },
+                {
+                    "source": "/home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "622",
+                        "endColumns": "100",
+                        "endOffsets": "718"
+                    }
+                }
+            ]
+        }
+    ]
+}

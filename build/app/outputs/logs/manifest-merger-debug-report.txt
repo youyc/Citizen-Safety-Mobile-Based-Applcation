@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+MERGED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+MERGED from [:just_audio] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/just_audio/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:sqflite] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_sms] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_sms/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_user_agent] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_user_agent/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_session] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/audio_session/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoder] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:quick_actions] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/quick_actions/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a5803306b825e58d08167bd4baeb0896/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b5340dab7dff28045dd3eef568dea42f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/59171fff57dc30bc785a3ce1172cc587/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c3945459af888b4695671b6247bd29c0/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/275d42fb2918fb9bb73f653065351657/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/2279575c42c059f216e60015f34c5d23/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/2244ab78142874e1be39c4215076750e/jetified-media2-session-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/00f43b6187f870e7b32964498ba0aab7/jetified-media2-common-1.1.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/laxus/.gradle/caches/transforms-2/files-2.1/4de5b978f8757c7eaca9c4adc389c506/media-1.2.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/0d8cec5ea4e14a5293f4b9c2629745eb/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a90ca8bb1020a69e93bd60e54aa357be/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9dff453916381dfd480c8a325551163c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a552590f7149bef866c0f2c525a80319/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/651e98da2b4db0e5ba64b9e88560f98e/jetified-exoplayer-dash-2.12.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/2c9f933cffb202603f91c90f83fc2700/jetified-exoplayer-hls-2.12.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/0e0ba898c3981e8c2a90b64433eeab63/jetified-exoplayer-smoothstreaming-2.12.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/93eacd84284cbab804bd18ff5fe06ecb/jetified-exoplayer-core-2.12.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b9030427f9d0024449b41b59e07f3ae0/exifinterface-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/50dca05728b6e991966fddeb861b7728/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/ae26c0da727f17901cc6b68ea7a71c9e/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/5cbc184ca14270e80159a29d860360de/jetified-exoplayer-extractor-2.12.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/c8c7cd9453bdfef8d24df9862c6d0f6b/jetified-exoplayer-common-2.12.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/6b6967a68d7878161c371a18e712f826/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:2:5-35
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:1-56:12
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:8:10-84
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:8:27-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:9:10-86
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:9:27-83
+uses-permission#android.permission.SEND_SMS
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:10:10-71
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:10:27-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:11:10-84
+MERGED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:11:27-82
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:12:10-85
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:12:27-83
+application
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:13:5-55:19
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a5803306b825e58d08167bd4baeb0896/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a5803306b825e58d08167bd4baeb0896/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/ae26c0da727f17901cc6b68ea7a71c9e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/ae26c0da727f17901cc6b68ea7a71c9e/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:16:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:15:9-33
+	android:icon
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:14:9-57
+activity#com.example.project1.MainActivity
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:18:9-46:20
+	android:launchMode
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:20:13-43
+	android:hardwareAccelerated
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:23:13-47
+	android:windowSoftInputMode
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:24:13-55
+	android:configChanges
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:22:13-163
+	android:theme
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:19:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:29:13-32:17
+	android:resource
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:31:15-52
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:30:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:38:13-41:17
+	android:resource
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:40:15-61
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:39:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:43:17-68
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:44:27-74
+meta-data#flutterEmbedding
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:49:9-51:33
+	android:value
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:51:13-30
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:50:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:52:9-54:71
+	android:value
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:54:13-68
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:53:13-58
+uses-sdk
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+MERGED from [:just_audio] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/just_audio/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:just_audio] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/just_audio/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sms] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_sms/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_sms] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_sms/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_user_agent] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_user_agent/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_user_agent] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_user_agent/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/google_maps_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/audio_session/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:audio_session] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/audio_session/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:geocoder] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/geocoder/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:quick_actions] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/quick_actions/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:quick_actions] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/quick_actions/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/permission_handler/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a5803306b825e58d08167bd4baeb0896/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a5803306b825e58d08167bd4baeb0896/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b5340dab7dff28045dd3eef568dea42f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b5340dab7dff28045dd3eef568dea42f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/59171fff57dc30bc785a3ce1172cc587/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/59171fff57dc30bc785a3ce1172cc587/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c3945459af888b4695671b6247bd29c0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c3945459af888b4695671b6247bd29c0/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/275d42fb2918fb9bb73f653065351657/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/275d42fb2918fb9bb73f653065351657/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/2279575c42c059f216e60015f34c5d23/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/2279575c42c059f216e60015f34c5d23/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/2244ab78142874e1be39c4215076750e/jetified-media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/2244ab78142874e1be39c4215076750e/jetified-media2-session-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/00f43b6187f870e7b32964498ba0aab7/jetified-media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.1.0-alpha01] /home/laxus/.gradle/caches/transforms-2/files-2.1/00f43b6187f870e7b32964498ba0aab7/jetified-media2-common-1.1.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/laxus/.gradle/caches/transforms-2/files-2.1/4de5b978f8757c7eaca9c4adc389c506/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.2.0-alpha03] /home/laxus/.gradle/caches/transforms-2/files-2.1/4de5b978f8757c7eaca9c4adc389c506/media-1.2.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/0d8cec5ea4e14a5293f4b9c2629745eb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/0d8cec5ea4e14a5293f4b9c2629745eb/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a90ca8bb1020a69e93bd60e54aa357be/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a90ca8bb1020a69e93bd60e54aa357be/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9dff453916381dfd480c8a325551163c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9dff453916381dfd480c8a325551163c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a552590f7149bef866c0f2c525a80319/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/a552590f7149bef866c0f2c525a80319/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/651e98da2b4db0e5ba64b9e88560f98e/jetified-exoplayer-dash-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/651e98da2b4db0e5ba64b9e88560f98e/jetified-exoplayer-dash-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/2c9f933cffb202603f91c90f83fc2700/jetified-exoplayer-hls-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/2c9f933cffb202603f91c90f83fc2700/jetified-exoplayer-hls-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/0e0ba898c3981e8c2a90b64433eeab63/jetified-exoplayer-smoothstreaming-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/0e0ba898c3981e8c2a90b64433eeab63/jetified-exoplayer-smoothstreaming-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/93eacd84284cbab804bd18ff5fe06ecb/jetified-exoplayer-core-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/93eacd84284cbab804bd18ff5fe06ecb/jetified-exoplayer-core-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b9030427f9d0024449b41b59e07f3ae0/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/b9030427f9d0024449b41b59e07f3ae0/exifinterface-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/50dca05728b6e991966fddeb861b7728/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/50dca05728b6e991966fddeb861b7728/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/ae26c0da727f17901cc6b68ea7a71c9e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/ae26c0da727f17901cc6b68ea7a71c9e/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/5cbc184ca14270e80159a29d860360de/jetified-exoplayer-extractor-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/5cbc184ca14270e80159a29d860360de/jetified-exoplayer-extractor-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/c8c7cd9453bdfef8d24df9862c6d0f6b/jetified-exoplayer-common-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/c8c7cd9453bdfef8d24df9862c6d0f6b/jetified-exoplayer-common-2.12.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/6b6967a68d7878161c371a18e712f826/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/6b6967a68d7878161c371a18e712f826/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:6:22-64
+queries
+ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/93eacd84284cbab804bd18ff5fe06ecb/jetified-exoplayer-core-2.12.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/93eacd84284cbab804bd18ff5fe06ecb/jetified-exoplayer-core-2.12.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/c8c7cd9453bdfef8d24df9862c6d0f6b/jetified-exoplayer-common-2.12.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.12.2] /home/laxus/.gradle/caches/transforms-2/files-2.1/c8c7cd9453bdfef8d24df9862c6d0f6b/jetified-exoplayer-common-2.12.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

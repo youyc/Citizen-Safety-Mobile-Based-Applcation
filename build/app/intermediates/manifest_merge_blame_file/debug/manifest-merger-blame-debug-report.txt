@@ -1,0 +1,197 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.project1"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/debug/AndroidManifest.xml:6:22-64
+15    <!--
+16     io.flutter.app.FlutterApplication is an android.app.Application that
+17         calls FlutterMain.startInitialization(this); in its onCreate method.
+18         In most cases you can leave this as-is, but you if you want to provide
+19         additional functionality it is fine to subclass or reimplement
+20         FlutterApplication and put your custom class here.
+21    -->
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:8:10-84
+22-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:8:27-81
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:9:10-86
+23-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:9:27-83
+24    <uses-permission android:name="android.permission.SEND_SMS" />
+24-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:10:10-71
+24-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:10:27-69
+25    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+25-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:11:10-84
+25-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:11:27-82
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:12:10-85
+26-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:12:27-83
+27
+28    <queries>
+28-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-15:15
+29        <intent>
+29-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-14:18
+30            <action android:name="android.intent.action.GET_CONTENT" />
+30-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-72
+30-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:21-69
+31
+32            <data android:mimeType="*/*" />
+32-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-44
+32-->[:file_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:19-41
+33        </intent>
+34    </queries> <!-- Include required permissions for Google Maps API to run. -->
+35    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+35-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+35-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+36
+37    <uses-feature
+37-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+38        android:glEsVersion="0x00020000"
+38-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+39        android:required="true" />
+39-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+40
+41    <application
+41-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:13:5-55:19
+42        android:name="io.flutter.app.FlutterApplication"
+42-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:14:9-57
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.1.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/3f0e982339ff24e9e5cec28c56d30078/core-1.1.0/AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="false"
+46        android:icon="@mipmap/ic_launcher"
+46-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:17:9-43
+47        android:label="project1"
+47-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:15:9-33
+48        android:requestLegacyExternalStorage="true" >
+48-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:16:9-52
+49        <activity
+49-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:18:9-46:20
+50            android:name="com.example.project1.MainActivity"
+50-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:19:13-41
+51            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+51-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:22:13-163
+52            android:hardwareAccelerated="true"
+52-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:23:13-47
+53            android:launchMode="singleTop"
+53-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:20:13-43
+54            android:theme="@style/LaunchTheme"
+54-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:21:13-47
+55            android:windowSoftInputMode="adjustResize" >
+55-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:24:13-55
+56
+57            <!--
+58                 Specifies an Android theme to apply to this Activity as soon as
+59                 the Android process has started. This theme is visible to the user
+60                 while the Flutter UI initializes. After that, this theme continues
+61                 to determine the Window background behind the Flutter UI.
+62            -->
+63            <meta-data
+63-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:29:13-32:17
+64                android:name="io.flutter.embedding.android.NormalTheme"
+64-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:30:15-70
+65                android:resource="@style/NormalTheme" />
+65-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:31:15-52
+66            <!--
+67                 Displays an Android View that continues showing the launch screen
+68                 Drawable until Flutter paints its first frame, then this splash
+69                 screen fades out. A splash screen is useful to avoid any visual
+70                 gap between the end of Android's launch screen and the painting of
+71                 Flutter's first frame.
+72            -->
+73            <meta-data
+73-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:38:13-41:17
+74                android:name="io.flutter.embedding.android.SplashScreenDrawable"
+74-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:39:15-79
+75                android:resource="@drawable/launch_background" />
+75-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:40:15-61
+76
+77            <intent-filter>
+77-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:42:13-45:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:43:17-68
+78-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:43:25-66
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:44:17-76
+80-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:44:27-74
+81            </intent-filter>
+82        </activity>
+83        <!--
+84             Don't delete the meta-data below.
+85             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+86        -->
+87        <meta-data
+87-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:49:9-51:33
+88            android:name="flutterEmbedding"
+88-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:50:13-44
+89            android:value="2" />
+89-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:51:13-30
+90        <meta-data
+90-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:52:9-54:71
+91            android:name="com.google.android.geo.API_KEY"
+91-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:53:13-58
+92            android:value="AIzaSyDobtbSYZyCWToB4lM2pEHFuGPdFlqIn6k" />
+92-->/media/laxus/DiskD/sourceCode/flutterCode/project1/android/app/src/main/AndroidManifest.xml:54:13-68
+93
+94        <provider
+94-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+95            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+95-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+96            android:authorities="com.example.project1.flutter.image_provider"
+96-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+97            android:exported="false"
+97-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+98            android:grantUriPermissions="true" >
+98-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+99            <meta-data
+99-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+100                android:name="android.support.FILE_PROVIDER_PATHS"
+100-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+101                android:resource="@xml/flutter_image_picker_file_paths" />
+101-->[:image_picker] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+102        </provider>
+103
+104        <activity
+104-->[:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+105            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+105-->[:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+106            android:exported="false"
+106-->[:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+107            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" /> <!-- Needs to be explicitly declared on P+ -->
+107-->[:url_launcher] /media/laxus/DiskD/sourceCode/flutterCode/project1/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+108        <uses-library
+108-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+109            android:name="org.apache.http.legacy"
+109-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+110            android:required="false" />
+110-->[com.google.android.gms:play-services-maps:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/9b9bf85f06e0416bc020d3c2709e9182/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+111
+112        <activity
+112-->[com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+113            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+113-->[com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+114            android:exported="false"
+114-->[com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+115            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+115-->[com.google.android.gms:play-services-base:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/c70bd2247ebe933296083663008ae7eb/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+116
+117        <meta-data
+117-->[com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+118            android:name="com.google.android.gms.version"
+118-->[com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+119            android:value="@integer/google_play_services_version" />
+119-->[com.google.android.gms:play-services-basement:17.0.0] /home/laxus/.gradle/caches/transforms-2/files-2.1/888ae11ac37d12d23cf3bcc28d0d2d4e/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+120    </application>
+121
+122</manifest>
